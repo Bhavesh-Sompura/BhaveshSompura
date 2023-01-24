@@ -1,12 +1,23 @@
-<p align="center">
-   Bhavesh Sompura 
-</p>
+<h1 align="center">
+   Hey, I'm Bhavesh Sompura 
+</h1>
 
+<img align="right" width="400" alt="Designing" src="https://user-images.githubusercontent.com/56756309/214362935-9cc13496-c2af-475e-ba1a-397c7a1291c5.png">
 
----
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+## Aspiring Full Stack Web Developer 
 
-## Hello World!!
+  - 🧑🏻‍💻 I’m currently perusing Java Full Stack Master Corse At [ItVedant](https://www.itvedant.com/)
+  
+  - 🌱 I recently have learned CSS libraries lie Chakra UI & Bootstrap
+  
+  - 💬 Ask me about Java, Spring Boot, RestAPI.
+  
+  - 💬 [Resume]
+  
+  - 📫 How to reach me - **bhaveshsompura30@gmail.com**
+  
+  - ⚡I'm creative and critical thinker in terms of development.
+
 <p>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,7 +27,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
-<img width="1600" alt="3f08a5cefd2923b34429930d21c4f64e" src="https://user-images.githubusercontent.com/56756309/214362935-9cc13496-c2af-475e-ba1a-397c7a1291c5.png">
+
 # Tools
 <p>
   
