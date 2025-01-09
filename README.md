@@ -6,11 +6,11 @@
 
 ## Aspiring Full Stack Web Developer 
 
-  - 🧑🏻‍💻 I’m currently perusing Java Full Stack Master Corse At [ItVedant](https://www.itvedant.com/)
+  - 🧑🏻‍💻 I’m currently perusing MERN Stack Course At [Fliex IT System](https://www.felix-its.com/)
   
   - 🌱 I recently have learned Front-end Web Development.
   
-  - 💬 Ask me about HTML, CSS, Bootstrap, Angular, Java, Spring Boot, RestAPI.
+  - 💬 Ask me about HTML, CSS, Bootstrap, and Javascript.
   
   - 📄 [Resume](https://drive.google.com/file/d/1L9PgGZIjC4LlqF1lWyEUsSOeAzOu-mkp/view?usp=share_link)
   
@@ -49,7 +49,7 @@
 
 
 ---
-<p align="center"> © 2023 Bhavesh Sompura, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center"> © 2025 Bhavesh Sompura, all rights reserved. Made with ❤️ for a better web. </p>
 <p align="center">
 http://bhaveshsompura-portfolio.epizy.com/
 </p>
