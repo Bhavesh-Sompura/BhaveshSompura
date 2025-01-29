@@ -6,7 +6,7 @@
 
 ## Aspiring Full Stack Web Developer 
 
-  - 🧑🏻‍💻 I’m currently perusing MERN Stack Course At [Fliex IT System](https://www.felix-its.com/)
+  - 🧑🏻‍💻 I’m currently perusing MERN Stack Course At 
   
   - 🌱 I recently have learned Front-end Web Development.
   
